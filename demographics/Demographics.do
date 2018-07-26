@@ -1,6 +1,6 @@
 clear
-global ifls5hh "" // your working directory here
-global data "" // your working directory here
+global ifls5hh "" // your working directory for raw data here
+global data "" // your working directory for clean data here
 
 // Using Book K
 use $ifls5hh/bk_ar1, clear
