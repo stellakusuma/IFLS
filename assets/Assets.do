@@ -1,6 +1,6 @@
 clear
-global ifls5hh "/Users/stellakusumawardhani/Documents/IFLS/IFLS5/hh14_all_dta"
-global data "/Users/stellakusumawardhani/Documents/Github"
+global ifls5hh "" // your working directory for raw data here
+global data "" // your working directory for clean data here
 
 * Exact Value
 use $ifls5hh/b2_hr1, clear
