@@ -1,6 +1,6 @@
 clear
-global ifls5hh "/Users/stellakusumawardhani/Documents/IFLS/IFLS5/hh14_all_dta"
-global data "/Users/stellakusumawardhani/Documents/Github"
+global ifls5hh "" // your working directory here
+global data "" // your working directory here
 
 // Using Book K
 use $ifls5hh/bk_ar1, clear
